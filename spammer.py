@@ -1,4 +1,4 @@
-  ert[76590-09876543q  4e4epoi ,./import asyncio
+import asyncio
 import os
 from aiohttp import web
 from telegram import Bot, LinkPreviewOptions
