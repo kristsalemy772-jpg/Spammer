@@ -9,7 +9,8 @@ CHANNEL_ID = "@KAZELIDERMODS"
 bot = Bot(token=BOT_TOKEN)
 
 # 1. TEMPLATE PARA SA MLBB UPDATE
-MLBB_MESSAGE = """<blockquote><i><a href="https://t.me/KAZELIDERMODS/6270">𝘓𝘢𝘵𝘦𝘴𝘵 𝘜𝘱𝘥𝘢𝘵𝘦:
+# 1. TEMPLATE PARA SA MLBB UPDATE (Naka-Collapsible Quote na)
+MLBB_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/KAZELIDERMODS/6270">𝘓𝘢𝘵𝘦𝘴𝘵 𝘜𝘥𝘱𝘢𝘵𝘦:
 𝘔𝘰𝘣𝘪𝘭𝘦 𝘓𝘦𝘨𝘦𝘯𝘥𝘴: 𝘉𝘢𝘯𝘨 𝘉𝘢𝘯𝘨
 𝘷2.1.88.12027 || 𝘔𝘰𝘥 𝘷3.1.3</a>
 
