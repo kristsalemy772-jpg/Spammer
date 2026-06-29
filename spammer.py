@@ -9,15 +9,16 @@ CHANNEL_ID = "@KAZELIDERMODS"
 bot = Bot(token=BOT_TOKEN)
 
 # 1. TEMPLATE PARA SA MLBB UPDATE
-MLBB_MESSAGE = """<b>UPDATE FOR (VIP USER) ONLY v3.1.2</b>
+MLBB_MESSAGE = """<blockquote><i><a href="https://t.me/KAZELIDERMODS/6270">𝘓𝘢𝘵𝘦𝘴𝘵 𝘜𝘱𝘥𝘢𝘵𝘦:
+𝘔𝘰𝘣𝘪𝘭𝘦 𝘓𝘦𝘨𝘦𝘯𝘥𝘴: 𝘉𝘢𝘯𝘨 𝘉𝘢𝘯𝘨
+𝘷2.1.88.12027 || 𝘔𝘰𝘥 𝘷3.1.3</a>
 
-<a href="https://t.me/KAZELIDERMODS/1584"> 📁 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝗹 </a>v3.1.2
-✓ ꜰɪx ꜱᴏᴍᴇ ʙᴜɢ,ꜱ!!!
-✓ ᴅᴏɴ'ᴛ ᴛʀʏ ᴛᴏ ᴄʀᴀᴄᴋ 🤭
-✓ ᴍʟʙʙ ᴠɪᴘ ᴋᴇʏ: ʙᴜʏ ɴᴏᴡ! ɴᴏ ꜰʀᴇᴇ!
+𝘕𝘌𝘌𝘋 𝘒𝘌𝘠 𝘓𝘖𝘎𝘐𝘕 ??? :
+𝘍𝘰𝘳 𝘪𝘯𝘲𝘶𝘪𝘳𝘪𝘦𝘴 𝘢𝘯𝘥 𝘢𝘷𝘢𝘪𝘭𝘮𝘦𝘯𝘵, 𝘴𝘦𝘯𝘥 𝘢 𝘥𝘪𝘳𝘦𝘤𝘵 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 ~ 𝘗𝘩𝘪𝘢 𝘍𝘦𝘭𝘪𝘤𝘪𝘢
 
-mlbb issues need help?
-Message: <a href="https://t.me/phia_maganda">𝑷𝒉𝒊𝒂 𝑭𝒆𝒍𝒊𝒄𝒊𝒂</a>"""
+𝘕𝘰 𝘍𝘳𝘦𝘦 🫪 𝘎𝘌𝘛𝘚!?
+
+𝘔𝘦𝘴𝘴𝘢𝘨𝘦: <a href="https://t.me/phia_maganda">𝘗𝘩𝘪𝘢 𝘍𝘦𝘭𝘪𝘤𝘪𝘢</a></i></blockquote>"""
 
 # 2. TEMPLATE PARA SA CODM
 CODM_MESSAGE = """<a href="https://t.me/KAZELIDERMODS/380">𝘊𝘖𝘋𝘔 𝘐𝘕𝘑𝘌𝘊𝘛𝘖𝘙 𝘛𝘙𝘐𝘈𝘓 𝘊𝘓𝘖𝘚𝘌!!!...</a>"""
